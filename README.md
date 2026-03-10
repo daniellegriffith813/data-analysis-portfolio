@@ -6,7 +6,7 @@ Danielle Griffith
 Course: LIN7078 – Analysing Language Datasets
 Academic Year: 2025–2026
 
-Overview
+## Overview
 
 This repository contains selected data analysis projects completed in R as part of the course LIN7078 Analysing Language Datasets.
 
@@ -24,7 +24,7 @@ data visualization in R
 
 The projects work with several types of language-related datasets, including phonetic data, textual data, and sociolinguistic variables.
 
-Project Files
+### Project Files
 Data Cleaning
 
 02_birdsong_cleaning.r
@@ -36,7 +36,7 @@ Plain text output of the cleaned dataset.
 02_british_birdsong_metadata.txt
 Original raw dataset prior to cleaning.
 
-Phonetic Analysis
+### Phonetic Analysis
 
 02_vot_analysis.r
 R script analyzing Voice Onset Time (VOT) data.
@@ -44,7 +44,7 @@ R script analyzing Voice Onset Time (VOT) data.
 02_vot.json
 JSON dataset containing VOT measurements.
 
-Data Visualization
+### Data Visualization
 
 03_cocktails_annotated.r
 Annotated R script analyzing ingredient frequency data.
@@ -55,7 +55,7 @@ Pie chart visualization of cocktail preparation methods.
 03_top_ingredients.png
 Bar chart visualization of most common cocktail ingredients.
 
-Migration Narrative Dataset Analysis
+### Migration Narrative Dataset Analysis
 
 04_migrant_stories.tsv
 Dataset containing narratives of migrant experiences.
@@ -63,7 +63,7 @@ Dataset containing narratives of migrant experiences.
 04_migrant_stories_viz.r
 R script generating multiple visualizations of migration patterns and linguistic features.
 
-Generated visualizations include:
+### Generated visualizations include:
 
 migration distance comparisons
 
@@ -75,7 +75,7 @@ bigram frequency analysis
 
 word frequency visualizations
 
-Output figures:
+### Output figures:
 
 close vs far migration comparisons
 
@@ -89,12 +89,12 @@ bigram frequency chart
 
 word cloud visualization
 
-Stylistic Text Analysis
+### Stylistic Text Analysis
 
 05_assignment_and_writeup.r
 R script comparing stylistic features across two literary works.
 
-Sociolinguistic Feature Analysis
+### Sociolinguistic Feature Analysis
 
 06_week08_comma.r
 R script analyzing demographic variation in the use of the Oxford comma.
@@ -102,12 +102,12 @@ R script analyzing demographic variation in the use of the Oxford comma.
 06_week08_writeup.txt
 Short interpretation of findings.
 
-Phonological Variation Analysis
+### Phonological Variation Analysis
 
 08_assignment_8.r
 R script analyzing the distribution of /hw/ across demographic groups.
 
-Statistical Model Comparison
+###Statistical Model Comparison
 
 09_model_comparison.r
 Comparison of logistic regression models predicting variation between /hw/ and /w/.
