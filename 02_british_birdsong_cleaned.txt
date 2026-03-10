@@ -1,0 +1,265 @@
+file_id	latin_name	english_cname	who_provided_recording	country	latitude	longitute	type	license	genus
+132608	acanthis flammea	common redpoll	Jarek Matusiak	poland	50.7932	15.4995	female| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	acanthis
+132611	acanthis flammea	common redpoll	Jarek Matusiak	poland	50.7932	15.4995	flight call| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	acanthis
+35068	acanthis flammea	common redpoll	Sander Bot	netherlands	52.8176	6.4326	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acanthis
+82715	acrocephalus palustris	marsh warbler	Dougie Preston	united kingdom	60.3539	-1.2689	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acrocephalus
+64685	acrocephalus palustris	marsh warbler	Dougie Preston	united kingdom	60.3539	-1.2689	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acrocephalus
+64686	acrocephalus palustris	marsh warbler	Dougie Preston	united kingdom	60.3539	-1.2689	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acrocephalus
+120664	acrocephalus schoenobaenus	sedge warbler	david m	united kingdom	56.586	-6.1855	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	acrocephalus
+120666	acrocephalus schoenobaenus	sedge warbler	david m	united kingdom	56.586	-6.1855	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	acrocephalus
+76767	acrocephalus schoenobaenus	sedge warbler	Dunn| Rich	united kingdom	55.2809	-1.5801	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acrocephalus
+124052	acrocephalus scirpaceus	eurasian reed warbler	david m	united kingdom	51.8985	-0.5372	call| female| male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	acrocephalus
+124053	acrocephalus scirpaceus	eurasian reed warbler	david m	united kingdom	51.8985	-0.5372	call| female| male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	acrocephalus
+27999	acrocephalus scirpaceus	eurasian reed warbler	Stuart Fisher	united kingdom	51.2887	-0.5267	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	acrocephalus
+113082	aegithalos caudatus	long-tailed tit	Timo Roeke	netherlands	52.2766	6.7271	alarm call	http://creativecommons.org/licenses/by-nc-sa/3.0/	aegithalos
+101371	aegithalos caudatus	long-tailed tit	Krzysiek Deoniziak	poland	52.272	16.797	call	http://creativecommons.org/licenses/by-nc-nd/2.5/	aegithalos
+128853	aegithalos caudatus	long-tailed tit	Alexandre Renaudier	spain	38.2072	-3.9626	call	http://creativecommons.org/licenses/by-nc-sa/3.0/	aegithalos
+123169	alauda arvensis	eurasian skylark	david m	united kingdom	54.128	-0.5574	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	alauda
+123170	alauda arvensis	eurasian skylark	david m	united kingdom	54.128	-0.5574	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	alauda
+158166	alauda arvensis	eurasian skylark	david m	united kingdom	54.127	-0.556	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	alauda
+138979	anthus pratensis	meadow pipit	Fernand DEROUSSEN	norway	70.3753	28.4628	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	anthus
+30614	anthus pratensis	meadow pipit	Ruud van Beusekom	netherlands	52.2823	5.2256	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	anthus
+142431	anthus pratensis	meadow pipit	Erik Roels	netherlands	51.3246	3.7232	flight call| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	anthus
+83705	anthus trivialis	tree pipit	Jelmer Poelstra	sweden	60.157	17.639	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	anthus
+33395	anthus trivialis	tree pipit	Mark Harper	united kingdom	53.2112	-1.0717	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	anthus
+99299	anthus trivialis	tree pipit	Tony Whitehead	united kingdom	50.658	-3.719	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	anthus
+139552	apus apus	common swift	Volker Arnold	germany	53.0956	10.8457	flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	apus
+67307	apus apus	common swift	Patrik berg	sweden	58.4278	14.2273	Begging call	http://creativecommons.org/licenses/by-nc-sa/3.0/	apus
+77645	apus apus	common swift	Richard Dunn	spain	42.629	-0.111	call	http://creativecommons.org/licenses/by-nc-nd/2.5/	apus
+94584	branta canadensis	canada goose	Frank Lambert	united kingdom	50.768	0.151	flight call	http://creativecommons.org/licenses/by-nc-nd/3.0/	branta
+35578	branta canadensis	canada goose	Arnold Meijer	netherlands	52.1756	4.4003	call	http://creativecommons.org/licenses/by-nc-nd/2.5/	branta
+95381	branta canadensis	canada goose	Herman van der Meer	netherlands	52.127	4.326	flight call	http://creativecommons.org/licenses/by-nc-nd/2.5/	branta
+64738	calidris alpina	dunlin	Patrik berg	sweden	68.471	20.9	Call	http://creativecommons.org/licenses/by-nc-sa/3.0/	calidris
+118363	calidris alpina	dunlin	Marco Dragonetti	italy	42.6683	11.0069	flight call	http://creativecommons.org/licenses/by-nc-nd/3.0/	calidris
+83894	calidris alpina	dunlin	Patrik berg	iceland	63.921	-20.764	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	calidris
+156388	caprimulgus europaeus	european nightjar	Jack Berteau	france	46.5874	0.2243	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	caprimulgus
+67229	caprimulgus europaeus	european nightjar	Patrik berg	sweden	58.4762	14.3726	Song	http://creativecommons.org/licenses/by-nc-sa/3.0/	caprimulgus
+27039	caprimulgus europaeus	european nightjar	Patrik berg	sweden	58.4392	14.3298	Song	http://creativecommons.org/licenses/by-nc-sa/3.0/	caprimulgus
+133880	carduelis carduelis	european goldfinch	Mike Nelson	united kingdom	55.9937	-3.5605	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	carduelis
+97792	carduelis carduelis	european goldfinch	Richard Dunn	united kingdom	55.239	-1.566	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	carduelis
+133886	carduelis carduelis	european goldfinch	Mike Nelson	united kingdom	56.0058	-3.5162	flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	carduelis
+70129	certhia familiaris	eurasian treecreeper	Paul Driver	united kingdom	51.721	-0.145	song| flight and contact calls	http://creativecommons.org/licenses/by-nc-nd/2.5/	certhia
+130409	certhia familiaris	eurasian treecreeper	Jelmer Poelstra	sweden	60.257	17.2172	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	certhia
+146753	certhia familiaris	eurasian treecreeper	David Darrell-Lambert	united kingdom	51.5826	-0.1426	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	certhia
+28961	chloris chloris	european greenfinch	Stuart Fisher	united kingdom	51.5278	-0.01	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	chloris
+99155	chloris chloris	european greenfinch	Tony Whitehead	united kingdom	50.486	-3.656	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	chloris
+124013	chloris chloris	european greenfinch	Ashley Fisher	united kingdom	49.9168	-6.3027	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	chloris
+129576	chroicocephalus ridibundus	black-headed gull	Alexandre Renaudier	france	46.401	6.514	alarm call| call| flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	chroicocephalus
+129577	chroicocephalus ridibundus	black-headed gull	Alexandre Renaudier	france	46.401	6.514	alarm call| call| flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	chroicocephalus
+143894	chroicocephalus ridibundus	black-headed gull	Dan Stowell	united kingdom	55.9104	-3.3199	song	http://creativecommons.org/licenses/by-sa/3.0/	chroicocephalus
+121691	coloeus monedula	western jackdaw	Jarek Matusiak	poland	52.2776	20.9679	call| flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	coloeus
+156262	coloeus monedula	western jackdaw	Andre et Odile BOUCHER	france	43.711	5.3928	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	coloeus
+121735	coloeus monedula	western jackdaw	Volker Arnold	germany	54.191	9.106	flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	coloeus
+92264	columba livia	rock dove	Herman van der Meer	netherlands	52.0775	4.3249	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	columba
+116226	columba livia	rock dove	Jarek Matusiak	poland	52.2129	21.0353	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	columba
+121677	columba livia	rock dove	Jarek Matusiak	poland	52.2776	20.9679	alarm call| alarm clapping with wings	http://creativecommons.org/licenses/by-nc-sa/3.0/	columba
+89994	columba oenas	stock dove	Herman van der Meer	netherlands	52.129	4.332	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	columba
+82971	columba oenas	stock dove	Volker Arnold	germany	54.147	9.222	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	columba
+77429	columba oenas	stock dove	Niels Krabbe	sweden	56.4334	12.5667	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	columba
+130993	columba palumbus	common wood pigeon	Ashley Fisher	united kingdom	49.9172	-6.3034	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	columba
+94614	columba palumbus	common wood pigeon	Frank Lambert	united kingdom	50.8889	0.422	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	columba
+94615	columba palumbus	common wood pigeon	Frank Lambert	united kingdom	50.8889	0.422	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	columba
+42224	corvus corax	northern raven	Jarek Matusiak	poland	49.0881	22.8128	call (call and acrobatic call)	http://creativecommons.org/licenses/by-nc-nd/2.5/	corvus
+143170	corvus corax	northern raven	Matthias Hemprich	germany	47.693	9.4287	call	http://creativecommons.org/licenses/by-nc-sa/3.0/	corvus
+64735	corvus corax	northern raven	Patrik berg	sweden	58.3667	14.2667	Call and 'song'	http://creativecommons.org/licenses/by-nc-sa/3.0/	corvus
+96464	corvus corone	carrion crow	Matthias Feuersenger	germany	49.4901	8.477	call	http://creativecommons.org/licenses/by-nc-nd/2.5/	corvus
+98400	corvus corone	carrion crow	Volker Arnold	germany	54.265	9.138	alarm call	http://creativecommons.org/licenses/by-nc-nd/2.5/	corvus
+96133	corvus corone	carrion crow	Herman van der Meer	netherlands	52.123	4.338	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	corvus
+27145	corvus frugilegus	rook	Patrik berg	sweden	55.6289	13.7128	Call	http://creativecommons.org/licenses/by-nc-sa/3.0/	corvus
+143002	corvus frugilegus	rook	Andre et Odile BOUCHER	france	45.398	4.2902	call| flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	corvus
+143005	corvus frugilegus	rook	Andre et Odile BOUCHER	france	45.398	4.2902	call| flight call| juvenile| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	corvus
+33392	cuculus canorus	common cuckoo	Mark Harper	united kingdom	53.2112	-1.0717	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	cuculus
+37447	cuculus canorus	common cuckoo	David Farrow	united kingdom	52.65806	1.051941	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	cuculus
+134671	cuculus canorus	common cuckoo	Ashley Fisher	united kingdom	49.9092	-6.3039	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	cuculus
+42178	cyanistes caeruleus	eurasian blue tit	Stuart Fisher	united kingdom	51.5501	0.0137	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	cyanistes
+44203	cyanistes caeruleus	eurasian blue tit	Stuart Fisher	united kingdom	51.5501	0.0137	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	cyanistes
+131316	cyanistes caeruleus	eurasian blue tit	Dan Stowell	united kingdom	51.5934	0.0256	song	http://creativecommons.org/licenses/by-sa/3.0/	cyanistes
+148465	delichon urbicum	common house martin	Patrik berg	spain	39.8427	-5.9972	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	delichon
+133444	delichon urbicum	common house martin	Roberto Lerco	italy	45.6851	11.0856	flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	delichon
+142697	delichon urbicum	common house martin	Fernand DEROUSSEN	france	42.5816	2.7787	alarm call| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	delichon
+148528	dendrocopos major	great spotted woodpecker	Stein . Nilsen	norway	69.5778	18.6401	call| drumming| juvenile	http://creativecommons.org/licenses/by-nc-sa/3.0/	dendrocopos
+98172	dendrocopos major	great spotted woodpecker	Jelmer Poelstra	sweden	60.297	16.913	drum	http://creativecommons.org/licenses/by-nc-nd/2.5/	dendrocopos
+72629	dendrocopos major	great spotted woodpecker	Volker Arnold	germany	54.1498	9.2039	call	http://creativecommons.org/licenses/by-nc-nd/2.5/	dendrocopos
+130426	dryocopus martius	black woodpecker	Jelmer Poelstra	sweden	60.2513	17.1808	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	dryocopus
+98942	dryocopus martius	black woodpecker	Filip Verbelen	belgium	50.958	3.727	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	dryocopus
+155975	dryocopus martius	black woodpecker	Jack Berteau	france	46.5966	0.1988	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	dryocopus
+123168	emberiza calandra	corn bunting	david m	united kingdom	54.1243	-0.557	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	emberiza
+125777	emberiza calandra	corn bunting	david m	united kingdom	54.1242	-0.5543	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	emberiza
+123167	emberiza calandra	corn bunting	david m	united kingdom	54.1243	-0.557	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	emberiza
+102106	emberiza citrinella	yellowhammer	Richard Dunn	united kingdom	55.1089	-1.7028	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	emberiza
+102107	emberiza citrinella	yellowhammer	Richard Dunn	united kingdom	55.1089	-1.7028	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	emberiza
+145533	emberiza citrinella	yellowhammer	Patrik berg	united kingdom	52.9382	1.1089	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	emberiza
+102048	emberiza schoeniclus	common reed bunting	Richard Dunn	united kingdom	55.07	-1.6059	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	emberiza
+102803	emberiza schoeniclus	common reed bunting	Richard Dunn	united kingdom	55.2809	-1.5801	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	emberiza
+86327	emberiza schoeniclus	common reed bunting	David Farrow	united kingdom	52.497	0.722	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	emberiza
+70124	erithacus rubecula	european robin	Paul Driver	united kingdom	51.721	-0.145	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	erithacus
+30390	erithacus rubecula	european robin	Stuart Fisher	united kingdom	51.317	-0.5592	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	erithacus
+133862	erithacus rubecula	european robin	Mike Nelson	united kingdom	55.9937	-3.5605	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	erithacus
+42803	fringilla coelebs	common chaffinch	Stuart Fisher	united kingdom	51.5676	0.0451	'plastic' song/subsong	http://creativecommons.org/licenses/by-nc-nd/2.5/	fringilla
+122548	fringilla coelebs	common chaffinch	Ashley Fisher	united kingdom	49.9172	-6.3034	call| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	fringilla
+121597	fringilla coelebs	common chaffinch	david m	united kingdom	54.1245	-0.5722	call| male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	fringilla
+31059	fulica atra	eurasian coot	Rombout de Wijs	netherlands	52.2962	5.1231	agitation calls	http://creativecommons.org/licenses/by-nc-nd/2.5/	fulica
+44707	fulica atra	eurasian coot	Stuart Fisher	united kingdom	51.5031	-0.1334	Typical calls in mild aggression	http://creativecommons.org/licenses/by-nc-nd/2.5/	fulica
+130639	fulica atra	eurasian coot	maudoc	italy	45.1945	11.0393	call	http://creativecommons.org/licenses/by-nc-nd/3.0/	fulica
+27080	gallinago gallinago	common snipe	Patrik berg	sweden	58.3714	14.1395	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gallinago
+90977	gallinago gallinago	common snipe	Lars Lachmann	poland	53.5001	22.7334	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	gallinago
+135270	gallinago gallinago	common snipe	Jelmer Poelstra	sweden	60.0947	17.5442	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gallinago
+89530	gallinula chloropus	common moorhen	Herman van der Meer	netherlands	52.106	4.405	Call	http://creativecommons.org/licenses/by-nc-nd/2.5/	gallinula
+26789	gallinula chloropus	common moorhen	Patrik berg	sweden	58.5731	14.2489	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gallinula
+82701	gallinula chloropus	common moorhen	Christoph Bock	germany	53.49821715	13.53323364	Territorial or agitation calls	http://creativecommons.org/licenses/by-nc-nd/2.5/	gallinula
+127136	garrulus glandarius	eurasian jay	Hemprich|M.	germany	47.6773	9.3935	imitation| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	garrulus
+142908	garrulus glandarius	eurasian jay	Matthias Hemprich	germany	47.6525	9.4569	migrant bird| song| subsong	http://creativecommons.org/licenses/by-nc-sa/3.0/	garrulus
+46223	garrulus glandarius	eurasian jay	Ruud van Beusekom	netherlands	52.3048	5.2028	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	garrulus
+58571	gavia stellata	red-throated loon	Patrik berg	sweden	59.793	14.482	territorial call and song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gavia
+58573	gavia stellata	red-throated loon	Patrik berg	sweden	59.793	14.482	territorial call and song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gavia
+58579	gavia stellata	red-throated loon	Patrik berg	sweden	59.793	14.482	terrotorial call and song	http://creativecommons.org/licenses/by-nc-sa/3.0/	gavia
+53817	haematopus ostralegus	eurasian oystercatcher	Niels Krabbe	sweden	56.4334	12.5667	song 4 birds in flight	http://creativecommons.org/licenses/by-nc-sa/3.0/	haematopus
+25754	haematopus ostralegus	eurasian oystercatcher	Niels Krabbe	denmark	55.8334	10.6001	songs of group of 3 birds	http://creativecommons.org/licenses/by-nc-sa/3.0/	haematopus
+76241	haematopus ostralegus	eurasian oystercatcher	Volker Arnold	germany	54.068	8.976	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	haematopus
+157322	hirundo rustica	barn swallow	david m	united kingdom	54.12	-0.5445	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	hirundo
+157331	hirundo rustica	barn swallow	david m	united kingdom	54.12	-0.5445	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	hirundo
+157279	hirundo rustica	barn swallow	david m	united kingdom	54.12	-0.5445	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	hirundo
+108002	jynx torquilla	eurasian wryneck	Jelmer Poelstra	sweden	59.9128	17.6201	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	jynx
+133054	jynx torquilla	eurasian wryneck	Jarek Matusiak	poland	52.3603	20.9157	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	jynx
+133471	jynx torquilla	eurasian wryneck	Lars Lachmann	germany	52.5245	13.0124	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	jynx
+130283	lagopus lagopus	willow ptarmigan	Stein . Nilsen	norway	69.5778	18.6401	Display| call| lekking| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	lagopus
+149806	lagopus lagopus	willow ptarmigan	Jens Kirkeby	norway	69.6365	18.8518	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	lagopus
+71943	lagopus lagopus	willow ptarmigan	Richard Dunn	united kingdom	54.813	-2.254	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	lagopus
+126481	larus argentatus	european herring gull	Stein . Nilsen	norway	69.5667	18.6001	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	larus
+154285	larus argentatus	european herring gull	Fernand Deroussen	france	48.6869	-2.3157	call| colony| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	larus
+125486	larus argentatus	european herring gull	Stein . Nilsen	norway	69.5778	18.6401	flight call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	larus
+102060	linaria cannabina	common linnet	Richard Dunn	united kingdom	55.01	-1.898	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	linaria
+125782	linaria cannabina	common linnet	david m	united kingdom	54.1246	-0.5465	call| female| male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	linaria
+145534	linaria cannabina	common linnet	Patrik berg	united kingdom	52.9382	1.1089	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	linaria
+83760	locustella fluviatilis	river warbler	Kamil Cihak	czech republic	NA	NA	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	locustella
+140557	locustella fluviatilis	river warbler	Fernand DEROUSSEN	poland	52.7362	23.7847	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	locustella
+110303	locustella fluviatilis	river warbler	Patrik berg	sweden	58.6333	14.0843	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	locustella
+94211	loxia curvirostra	red crossbill	Richard Dunn	united kingdom	55.212	-2.043	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	loxia
+94212	loxia curvirostra	red crossbill	Richard Dunn	united kingdom	55.212	-2.043	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	loxia
+99862	loxia curvirostra	red crossbill	Tony Whitehead	united kingdom	50.651	-3.582	Call Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	loxia
+123808	luscinia megarhynchos	common nightingale	david m	united kingdom	51.9001	-0.5289	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	luscinia
+123810	luscinia megarhynchos	common nightingale	david m	united kingdom	51.9001	-0.5289	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	luscinia
+132580	luscinia megarhynchos	common nightingale	Kieran Nixon	united kingdom	52.9515	1.0895	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	luscinia
+148426	merops apiaster	european bee-eater	Patrik berg	spain	39.8427	-5.9972	call	http://creativecommons.org/licenses/by-nc-sa/3.0/	merops
+141026	merops apiaster	european bee-eater	Fernand DEROUSSEN	france	43.5722	4.5868	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	merops
+97194	merops apiaster	european bee-eater	Rodolphe ALEXIS	spain	NA	NA	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	merops
+125137	motacilla aguimp	african pied wagtail	Bram Piot	zambia	-17.807	25.6894	call| female| male	http://creativecommons.org/licenses/by-nc-sa/3.0/	motacilla
+41428	motacilla aguimp	african pied wagtail	Derek Solomon	zambia	-13.0667	31.7834	Call	http://creativecommons.org/licenses/by-nc-nd/2.5/	motacilla
+118441	motacilla aguimp	african pied wagtail	Rory Nefdt	zambia	-15.9259	29.0292	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	motacilla
+69792	motacilla flava	western yellow wagtail	Louis A. hansen	denmark	54.5667	11.96242	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	motacilla
+102788	motacilla flava	western yellow wagtail	Jarek Matusiak	poland	51.338	22.965	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	motacilla
+36637	motacilla flava	western yellow wagtail	Rob van Bemmelen	sweden	65.957	16.2078	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	motacilla
+103145	muscicapa striata	spotted flycatcher	maudoc	italy	45.4191	10.8205	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	muscicapa
+134042	muscicapa striata	spotted flycatcher	Volker Arnold	hungary	47.16	20.2228	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	muscicapa
+139372	muscicapa striata	spotted flycatcher	Mats Rellmar	sweden	56.0673	13.0125	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	muscicapa
+27152	oriolus oriolus	eurasian golden oriole	Patrik berg	sweden	58.4834	14.5014	Song	http://creativecommons.org/licenses/by-nc-sa/3.0/	oriolus
+101377	oriolus oriolus	eurasian golden oriole	Krzysiek Deoniziak	poland	52.272	16.797	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	oriolus
+80356	oriolus oriolus	eurasian golden oriole	Niels Krabbe	sweden	55.6501	13.5667	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	oriolus
+122555	parus major	great tit	Ashley Fisher	united kingdom	49.9222	-6.2917	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	parus
+94652	parus major	great tit	Richard Dunn	united kingdom	55.129	-1.873	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	parus
+71454	parus major	great tit	Richard Dunn	united kingdom	55.219	-1.765	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	parus
+134291	passer domesticus	house sparrow	Lars Lachmann	germany	52.7877	9.1168	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	passer
+151150	passer domesticus	house sparrow	Jarek Matusiak	poland	52.6646	23.5784	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	passer
+29766	passer domesticus	house sparrow	Stuart Fisher	united kingdom	52.7601	0.2973	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	passer
+143465	passer montanus	eurasian tree sparrow	Buhl Johannes	germany	48.2976	10.9317	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	passer
+90122	passer montanus	eurasian tree sparrow	Volker Arnold	germany	54.191	9.106	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	passer
+43764	passer montanus	eurasian tree sparrow	Jarek Matusiak	poland	52.30470007	20.94783783	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	passer
+46209	perdix perdix	grey partridge	Matthias Feuersenger	germany	49.5863	8.4318	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	perdix
+46211	perdix perdix	grey partridge	Matthias Feuersenger	germany	49.5863	8.4318	flight calls| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	perdix
+42430	perdix perdix	grey partridge	Patrik berg	sweden	56.4451	16.5662	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	perdix
+95058	periparus ater	coal tit	Richard Dunn	united kingdom	55.31	-2.114	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	periparus
+98842	periparus ater	coal tit	Tony Whitehead	united kingdom	50.596	-3.727	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	periparus
+132149	periparus ater	coal tit	Paul Driver	united kingdom	51.721	-0.145	extended song	http://creativecommons.org/licenses/by-nc-sa/3.0/	periparus
+113089	pernis apivorus	european honey buzzard	Simon Elliott	united kingdom	57.4749	-4.2203	call| female	http://creativecommons.org/licenses/by-nc-sa/3.0/	pernis
+145738	pernis apivorus	european honey buzzard	OREVER	france	44.1686	6.6018	call| flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	pernis
+146062	pernis apivorus	european honey buzzard	Francesco Sottile	italy	39.4163	16.7029	flight call| male	http://creativecommons.org/licenses/by-nc-sa/3.0/	pernis
+153129	phasianus colchicus	common pheasant	Patrik berg	sweden	58.5731	14.2489	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	phasianus
+149146	phasianus colchicus	common pheasant	Fernand DEROUSSEN	france	48.3941	2.577	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	phasianus
+121326	phasianus colchicus	common pheasant	Jarek Matusiak	poland	52.359	20.929	alarm call| male	http://creativecommons.org/licenses/by-nc-sa/3.0/	phasianus
+76760	phoenicurus phoenicurus	common redstart	Richard Dunn	united kingdom	55.2189	-1.7648	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phoenicurus
+76761	phoenicurus phoenicurus	common redstart	Richard Dunn	united kingdom	55.2189	-1.7648	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phoenicurus
+76762	phoenicurus phoenicurus	common redstart	Richard Dunn	united kingdom	55.2189	-1.7648	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phoenicurus
+153833	phylloscopus collybita	common chiffchaff	david m	united kingdom	54.1534	-0.6051	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	phylloscopus
+121963	phylloscopus collybita	common chiffchaff	david m	united kingdom	54.1471	-0.601	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	phylloscopus
+71748	phylloscopus collybita	common chiffchaff	Mark Doveston	united kingdom	NA	NA	Song|call	http://creativecommons.org/licenses/by-nc-nd/2.5/	phylloscopus
+101934	phylloscopus sibilatrix	wood warbler	Richard Dunn	united kingdom	54.9651	-2.317	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phylloscopus
+101862	phylloscopus sibilatrix	wood warbler	Richard Dunn	united kingdom	54.9651	-2.317	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phylloscopus
+101935	phylloscopus sibilatrix	wood warbler	Richard Dunn	united kingdom	54.9651	-2.317	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phylloscopus
+121601	phylloscopus trochilus	willow warbler	david m	united kingdom	54.1248	-0.5685	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	phylloscopus
+146755	phylloscopus trochilus	willow warbler	David Darrell-Lambert	united kingdom	57.1672	-3.702	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	phylloscopus
+99529	phylloscopus trochilus	willow warbler	Tony Whitehead	united kingdom	50.601	-3.72	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	phylloscopus
+121016	pica pica	eurasian magpie	Lars Lachmann	poland	52.443	21.094	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	pica
+148889	pica pica	eurasian magpie	Stein . Nilsen	norway	69.5778	18.6401	flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	pica
+29230	pica pica	eurasian magpie	Ante Strand	sweden	59.58333	13.06667	Call	http://creativecommons.org/licenses/by-nc-nd/2.5/	pica
+99072	picus viridis	european green woodpecker	Richard Dunn	united kingdom	55.07	-1.6059	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	picus
+153131	picus viridis	european green woodpecker	Patrik berg	sweden	58.679	14.492	drumming| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	picus
+43853	picus viridis	european green woodpecker	Stuart Fisher	united kingdom	51.5676	0.0451	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	picus
+42344	pluvialis apricaria	european golden plover	Patrik berg	sweden	58.5356	14.2284	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	pluvialis
+85842	pluvialis apricaria	european golden plover	Christoph Bock	norway	71.055	28.044	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	pluvialis
+42343	pluvialis apricaria	european golden plover	Patrik berg	sweden	58.5356	14.2284	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	pluvialis
+150291	pluvialis squatarola	grey plover	Volker Arnold	germany	54.068	8.976	flight call	http://creativecommons.org/licenses/by-nc-sa/3.0/	pluvialis
+146757	pluvialis squatarola	grey plover	David Darrell-Lambert	united kingdom	51.4633	0.2847	alarm call	http://creativecommons.org/licenses/by-nc-sa/3.0/	pluvialis
+160879	pluvialis squatarola	grey plover	Marco Dragonetti	italy	43.8595	10.2373	call	http://creativecommons.org/licenses/by-nc-nd/3.0/	pluvialis
+91185	poecile montanus	willow tit	Lars Lachmann	poland	52.4428	21.0939	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	poecile
+98691	poecile montanus	willow tit	Stein . Nilsen	norway	69.5848	18.662	Subsong	http://creativecommons.org/licenses/by-nc-nd/2.5/	poecile
+164926	poecile montanus	willow tit	Buhl Johannes	germany	48.3447	10.9154	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	poecile
+46032	poecile palustris	marsh tit	Jarek Matusiak	poland	52.4559	20.7328	song from tree top	http://creativecommons.org/licenses/by-nc-nd/2.5/	poecile
+55184	poecile palustris	marsh tit	GROSSELET Olivier	france	43.022	-0.16	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	poecile
+26578	poecile palustris	marsh tit	Stuart Fisher	united kingdom	52.9453	0.5776	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	poecile
+145537	prunella modularis	dunnock	Patrik berg	united kingdom	52.9382	1.1089	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	prunella
+70132	prunella modularis	dunnock	Paul Driver	united kingdom	52.509	0.661	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	prunella
+94669	prunella modularis	dunnock	Richard Dunn	united kingdom	55.0698	-1.5167	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	prunella
+113905	pyrrhula pyrrhula	eurasian bullfinch	Jarek Matusiak	poland	52.1157	21.0907	call| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	pyrrhula
+146707	pyrrhula pyrrhula	eurasian bullfinch	julien Rochefort	france	48.3941	2.577	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	pyrrhula
+83357	pyrrhula pyrrhula	eurasian bullfinch	VOLKER ARNOLD	deutchland	54.116	9.325	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	pyrrhula
+49540	regulus regulus	goldcrest	Andrew McCafferty	united kingdom	50.162325010000004	-1.16618667	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	regulus
+78958	regulus regulus	goldcrest	Jacques PREVOST	france	45.3248	5.757	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	regulus
+106846	regulus regulus	goldcrest	Jan-Kees Bossenbroek	france	47.6989	-3.2759	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	regulus
+99937	sitta europaea	eurasian nuthatch	Tony Whitehead	united kingdom	50.651	-3.58	Call Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sitta
+28926	sitta europaea	eurasian nuthatch	Stuart Fisher	united kingdom	51.2573	-0.5062	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sitta
+78951	sitta europaea	eurasian nuthatch	Jacques PREVOST	france	45.307	5.5514	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sitta
+128851	streptopelia decaocto	eurasian collared dove	Ashley Fisher	united kingdom	49.9196	-6.3053	male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	streptopelia
+101940	streptopelia decaocto	eurasian collared dove	Richard Dunn	united kingdom	55.065	-1.505	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	streptopelia
+101941	streptopelia decaocto	eurasian collared dove	Richard Dunn	united kingdom	55.065	-1.505	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	streptopelia
+40186	streptopelia turtur	european turtle dove	Marco Dragonetti	italy	42.6001	11.2834	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	streptopelia
+75092	streptopelia turtur	european turtle dove	Tomas Belka	czech republic	50.1167	16.7667	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	streptopelia
+144991	streptopelia turtur	european turtle dove	Marco Dragonetti	italy	42.6001	11.2834	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	streptopelia
+64728	strix aluco	tawny owl	Patrik berg	sweden	58.5731	14.2489	call| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	strix
+67089	strix aluco	tawny owl	Richard Dunn	united kingdom	55.219	-1.765	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	strix
+76765	strix aluco	tawny owl	Richard Dunn	united kingdom	55.219	-1.765	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	strix
+101936	sturnus vulgaris	common starling	Richard Dunn	united kingdom	54.857	-2.2701	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sturnus
+42698	sturnus vulgaris	common starling	Stuart Fisher	united kingdom	57.8981	-6.7995	Song/subsong	http://creativecommons.org/licenses/by-nc-nd/2.5/	sturnus
+144382	sturnus vulgaris	common starling	Magnus Bergsson	iceland	64.674	-21.6221	drumming| impersonate| male| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	sturnus
+94964	sylvia atricapilla	eurasian blackcap	Richard Dunn	united kingdom	55.2189	-1.7648	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+99357	sylvia atricapilla	eurasian blackcap	Tony Whitehead	united kingdom	50.658	-3.719	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+94967	sylvia atricapilla	eurasian blackcap	Richard Dunn	united kingdom	55.2189	-1.7648	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+102932	sylvia borin	garden warbler	Stuart Fisher	united kingdom	51.71	-0.011	Song and subsong	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+49443	sylvia borin	garden warbler	Andrew McCafferty	united kingdom	50.162325010000004	-1.16618667	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+146260	sylvia borin	garden warbler	david m	united kingdom	54.1329	-0.5494	male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	sylvia
+135521	sylvia communis	common whitethroat	Suzanne MacLeod	united kingdom	51.3541	-2.0824	female| song	http://creativecommons.org/licenses/by-nc-sa/3.0/	sylvia
+76740	sylvia communis	common whitethroat	Richard Dunn	united kingdom	55.07	-1.606	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+76742	sylvia communis	common whitethroat	Richard Dunn	united kingdom	55.07	-1.606	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+101932	sylvia curruca	lesser whitethroat	Richard Dunn	united kingdom	55.07	-1.6059	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+101933	sylvia curruca	lesser whitethroat	Richard Dunn	united kingdom	55.07	-1.6059	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+102278	sylvia curruca	lesser whitethroat	Richard Dunn	united kingdom	55.2809	-1.5801	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	sylvia
+41816	tringa glareola	wood sandpiper	Hans Petter Kristoffersen	norway	69.6001	19.8334	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+102868	tringa glareola	wood sandpiper	Jarek Matusiak	latvia	57.962	24.796	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+102869	tringa glareola	wood sandpiper	Jarek Matusiak	estonia	57.962	24.796	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+83912	tringa totanus	common redshank	Patrik berg	iceland	65.5501	-17.2334	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+57919	tringa totanus	common redshank	Ruud van Beusekom	iceland	65.061	-13.975	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+110167	tringa totanus	common redshank	Jens Kirkeby	norway	69.6365	18.8518	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	tringa
+133872	troglodytes troglodytes	eurasian wren	Mike Nelson	united kingdom	55.9937	-3.5605	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	troglodytes
+59776	troglodytes troglodytes	eurasian wren	Frank Lambert	united kingdom	50.853	-0.164	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	troglodytes
+71024	troglodytes troglodytes	eurasian wren	Paul Driver	united kingdom	51.7209	-0.1448	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	troglodytes
+121168	turdus iliacus	redwing	Lars Theng	sweden	58.1422	13.4531	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	turdus
+27962	turdus iliacus	redwing	Patrik berg	sweden	58.453481	14.229355	Song	http://creativecommons.org/licenses/by-nc-sa/3.0/	turdus
+25119	turdus iliacus	redwing	Niels Krabbe	finland	65.0667	24.6334	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	turdus
+127996	turdus merula	common blackbird	david m	united kingdom	54.1226	-0.5429	call| flight call| male| song	http://creativecommons.org/licenses/by-nc-nd/3.0/	turdus
+72861	turdus merula	common blackbird	Stuart Fisher	united kingdom	51.5278	-0.0101	Song of a male	http://creativecommons.org/licenses/by-nc-nd/2.5/	turdus
+94958	turdus merula	common blackbird	Richard Dunn	united kingdom	55.0698	-1.5167	song	http://creativecommons.org/licenses/by-nc-nd/2.5/	turdus
+96608	turdus philomelos	song thrush	Fraser Simpson	uk	51.636	-0.328	Song	http://creativecommons.org/licenses/by-nc-nd/2.5/	turdus
+132392	turdus philomelos	song thrush	david m	united kingdom	54.12	-0.5445	song	http://creativecommons.org/licenses/by-nc-nd/3.0/	turdus
+146756	turdus philomelos	song thrush	David Darrell-Lambert	united kingdom	51.6608	0.0031	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	turdus
+27060	vanellus vanellus	northern lapwing	Patrik berg	sweden	58.4051	14.3028	song	http://creativecommons.org/licenses/by-nc-sa/3.0/	vanellus
+97982	vanellus vanellus	northern lapwing	Herman van der Meer	netherlands	52.152	4.347	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	vanellus
+69855	vanellus vanellus	northern lapwing	Ruud van Beusekom	netherlands	52.2598	5.297	call| song	http://creativecommons.org/licenses/by-nc-nd/2.5/	vanellus
