@@ -3,7 +3,9 @@ Portfolio of data analysis projects in R, including statistical modeling, data v
 Language Data Analysis Portfolio
 
 Danielle Griffith
+
 Course: LIN7078 – Analysing Language Datasets
+
 Academic Year: 2025–2026
 
 ## Overview
