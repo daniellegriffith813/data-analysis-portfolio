@@ -1,0 +1,11 @@
+NA strategy
+
+I first checked how much missing data there was in the variables used for analysis (heard_oxford_comma, education, more_grammar_correct, care_proper_grammar, and gender). For each test, I used listwise deletion, meaning that respondents with missing values on the relevant variables were excluded from that specific analysis. I treated responses like “Don’t know” and “Prefer not to say” as missing, since they don’t reflect a clear opinion about grammar. To make sure this decision wasn’t driving the results, I ran one key test again while keeping those responses as their own category and compared the outcomes.
+
+Tests & results
+
+I tested three research questions using methods appropriate for categorical and ordinal data. First, I used a chi-square test to examine whether awareness of the Oxford comma was related to education level. Second, I ran another chi-square test to see if grammar preferences differed by education, reporting Cramér’s V as an effect size. This analysis was also used for the sensitivity check with two different missing-data strategies. Third, I used a Mann–Whitney U test to assess whether the perceived importance of proper grammar differed by gender, with rank-biserial r reported as the effect size. For each chi-square test, I checked expected cell counts to ensure the test assumptions were reasonable.
+
+Interpretation
+
+Overall, the results suggest that grammar attitudes are patterned rather than random. Education level appears to be related to both awareness of the Oxford comma and preferences about grammatical correctness, while gender differences in how important people think proper grammar is were smaller. The effect sizes indicate that these relationships are generally modest but meaningful. Importantly, the sensitivity check showed that changing how missing responses were handled did not substantially alter the conclusions. Taken together, these findings suggest that views about grammar are shaped in part by educational background rather than being purely individual or arbitrary preferences.
